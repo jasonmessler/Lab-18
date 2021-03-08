@@ -28,7 +28,7 @@ namespace Lab_18
             list.InsertAt(3, myObj);
 
             // insert at out of range - comment/uncomment to test
-           list.InsertAt(11, myObj));
+           list.InsertAt(11, myObj);
 
             list.PrintReverse();
 
